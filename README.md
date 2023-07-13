@@ -1,1 +1,1 @@
-# steghide
+# STEGHIDE
